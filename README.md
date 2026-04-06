@@ -110,6 +110,32 @@ That makes sense, and I’d expect you to have something in place. Most of the o
 
 ### Example 3: Follow-Up After Discovery Call
 
+## AI-Assisted Sales Workflow
+
+A simple framework for integrating AI into a modern sales process:
+
+### 1. Account Research
+Use AI to analyze target accounts, identify key stakeholders, and uncover potential business challenges.
+
+### 2. Outreach Preparation
+Generate personalized messaging tailored to the prospect’s role, industry, and likely priorities.
+
+### 3. Discovery Preparation
+Use AI to prepare thoughtful questions and anticipate potential needs or objections before conversations.
+
+### 4. Objection Handling
+Develop confident, value-based responses to common objections to keep deals moving forward.
+
+### 5. Follow-Up & Next Steps
+Create structured follow-up messaging that reinforces value, summarizes conversations, and drives clear next steps.
+
+---
+
+## Philosophy
+
+AI is not a replacement for sales professionals—it’s a tool to enhance preparation, communication, and execution.
+
+The goal is not to automate relationships, but to improve the quality of every interaction.
 **Scenario:** Reinforcing value and next steps after initial conversation.
 
 **AI Prompt:**
