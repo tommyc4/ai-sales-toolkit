@@ -1,6 +1,6 @@
 # AI Sales Toolkit
 
-A practical project showcasing how AI can support modern sales workflows and improve revenue outcomes.
+A practical project showcasing how AI can support modern sales workflows, improve revenue execution, and enhance customer engagement.
 
 ---
 
